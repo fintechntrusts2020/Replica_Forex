@@ -31,7 +31,7 @@ enable_smart_app_banner                   :                                     
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  : Why Replica Forex?
+features                                  :
 
   - title                                 : Automated Trading Software
     description                           : As the MT4 software market remains competitive, the GPS Forex Robot has withstood the test of time. Click Here for more information. 
