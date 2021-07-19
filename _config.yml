@@ -35,10 +35,11 @@ features                                  :
 
   - title                                 : Automated Trading Software
     description                           : As the MT4 software market remains competitive, the GPS Forex Robot has withstood the test of time. 
-    
+    fontawesome_icon_name                 : code
+
   - title                                 : Shared Community Pool
     description                           : Less risk, more reward is our objective! RFX Holders will benefit consistently from Forex yield profits.  
-    fontawesome_icon_name                 : user-friends
+    fontawesome_icon_name                 : users
 
   - title                                 : Replica Market Management
     description                           : Many crypto projects fail due to lack of market management. Our team has a management system for market health retention.
