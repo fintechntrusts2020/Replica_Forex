@@ -25,7 +25,10 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/RFX_logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Replica Forex Token                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The First Binance Smart Chain Token based on Foreign Exchange Automated Trading Software. Available on PancakeSwap! 
+app_description                           : The First Binance Smart Chain Token based on Foreign Exchange Automated Trading Software. 
+                                            Available on PancakeSwap! 
+Contract                                  : 0xc1c8056dd9a0cd81146038c44439c18b0aaa5e36
+
 
 enable_smart_app_banner                   :                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
