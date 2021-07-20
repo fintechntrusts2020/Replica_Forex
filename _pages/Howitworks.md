@@ -15,8 +15,11 @@ include_in_header: true
     **d. 1,000,000 RFX will be used for marketing incentivization.**
 
 **2. After step(1) above, all BNB will be moved to Binance.us for conversion.**
+
 **3. Next, converted crypto will used for community Forex pool via Forex.com.**
+
 **4. The principal amount + 50% of profits will remain in the pool. 50% of the profits will be removed and sent to Binance.us for BNB conversion.**
+
 **5. Lastly, when BNB is acquired 50% of the BNB will be converted into RFX, and the other 50% will be used for liquidity.**
 
 ![](../assets/RFX_graphic(2).png)
