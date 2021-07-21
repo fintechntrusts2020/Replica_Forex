@@ -10,7 +10,7 @@ include_in_header: true
 |-----------|
 |Community Marketing Incentivization(1st Session)|
 |Developer Outreach|
-|-----------|
+
 |4th Quarter|
 |-----------|
 |Partnership Development(continuous)|
@@ -20,15 +20,15 @@ include_in_header: true
 |1st Quarter|
 |---------------|
 |Simple Ledger Protocol Bridge Implementation|
-|-----------|
+
 |2nd Quarter|
 |-----------|
 |Community Marketing Incentivization(2nd Session)|
-|-----------|
+
 |3rd Quarter|
 |-----------|
 |Website Development Update|
-|-----------|
+
 |4th Quarter|
 |-----------|
 |Community Marketing Incentivization(3rd Session)|
