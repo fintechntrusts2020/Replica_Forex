@@ -4,14 +4,14 @@ title: Roadmap
 include_in_header: true
 ---
 
-# |2021|
+# 2021
 |**3rd Quarter**|
 |Community Marketing Incentivization(1st Session)|
 |Developer Outreach|
 |**4th Quarter**|
 |Partnership Development(continuous)|
 
-# |2022|
+# 2022
 |**1st-2nd Quarter**|
 |Simple Ledger Protocol Bridge Implementation|
 |**2nd Quarter**|
