@@ -5,6 +5,7 @@ include_in_header: true
 ---
 
 # 2021
+
 |3rd Quarter|
 |Community Marketing Incentivization(1st Session)|
 |Developer Outreach|
@@ -12,6 +13,7 @@ include_in_header: true
 |Partnership Development(continuous)|
 
 # 2022
+
 |1st-2nd Quarter|
 |Simple Ledger Protocol Bridge Implementation|
 |2nd Quarter|
@@ -20,3 +22,7 @@ include_in_header: true
 |Website Development Update|
 |4th Quarter|
 |Community Marketing Incentivization(3rd Session)|
+
+# 2023
+
+|Community Marketing Incentivization(4th Session)|
