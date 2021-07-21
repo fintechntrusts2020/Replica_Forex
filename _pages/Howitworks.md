@@ -6,7 +6,7 @@ include_in_header: true
 
 # Market Management System Example
 
-**Below is a visual example of how the Replica Forex development team intends to execute the following market strategy.**
+*Below is a visual example of how the Replica Forex development team intends to execute the following market strategy.*
 
 **1. The Pancake Swap liquidation strategy will entail the following:**
     **a. 3,500,000 RFX will be traded into the market marginally overtime. Our priority is market growth and liquidity in order to maintain interest. This is strictly for market maintenance and not for T/P. RFX Tokens will be traded for BNB in order to add liqudity to the pool.** 
