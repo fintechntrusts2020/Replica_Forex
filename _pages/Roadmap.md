@@ -12,11 +12,13 @@ include_in_header: true
 |------------------------------------------------|
 |Community Marketing Incentivization(1st Session)|
 |Developer Outreach                              |
+|Coingecko Listing                               |
 
 |------------------------------------------------|
 |4th Quarter                                     |
 |------------------------------------------------|
 |Partnership Development(continuous)             |
+|Coinmarketcap Listing                           |     |
 
 # 2022
 
@@ -30,6 +32,7 @@ include_in_header: true
 |------------------------------------------------|
 |Community Marketing Incentivization(2nd Session)|
 |------------------------------------------------|
+
 
 |3rd Quarter                                     |
 |------------------------------------------------|
@@ -46,3 +49,4 @@ include_in_header: true
 |1st Quarter                                     |
 |------------------------------------------------|
 |Community Marketing Incentivization(4th Session)|
+

@@ -13,14 +13,15 @@ include_in_header: true
     **b. 1,000,000 RFX Will be used for the development team.**
     **c. 1,000,000 RFX will be used for Fees, crypto and fiat alike.(Binance.us, Forex.com, Legal, Structure, etc.)**
     **d. 1,000,000 RFX will be used for marketing incentivization.**
+    **e. 3,500,000 RFX added to liquidity at launch.**
 
-**2. After step(1) above, all BNB will be moved to Binance.us for conversion.**
+**2. All BNB will be moved to Binance.us for conversion. BNB in exchange for USD**
 
-**3. Next, converted crypto will used for community Forex pool via Forex.com.**
+**3. USD withdrawn from Binance.us and deposited Forex.com community pool for GPS Forex Robot algorithm.**
 
 **4. The principal amount + 50% of profits will remain in the pool. 50% of the profits will be removed and sent to Binance.us for BNB conversion.**
 
-**5. Lastly, when BNB is acquired 50% of the BNB will be converted into RFX, and the other 50% will be used for liquidity.**
+**5. When BNB is acquired 50% of the BNB will be converted into RFX, and the other 50% will be used for liquidity.**
 
 ![](../assets/RFX_graphic(2).png)
 
@@ -37,3 +38,10 @@ include_in_header: true
 **The GPS Forex Robot is the best automated trading software on the market, and has been tested for about a decade. Due to our teams experience with this software, by utilizing the default settings, the win to loss ratio is well above 80%. As trades open and close, the development team will maintain transparency regarding weekly trading results via the "[News]()" portion of the Replica Forex website.** 
 
 ![](../assets/MT4.png)
+
+
+# Additional Information
+
+**If you're interested in operating your own GPS Forex Robot, then please click the link below.**
+
+![http://https://clickbetter.com/track.php?ref=ijk2b2xlz25hdkvensi=.gpsrobot.a.clickbetter.com/](../assets/)
