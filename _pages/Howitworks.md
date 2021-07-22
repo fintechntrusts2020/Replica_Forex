@@ -44,4 +44,4 @@ include_in_header: true
 
 **If you're interested in operating your own GPS Forex Robot, then please click the link below.**
 
-![http://https://clickbetter.com/track.php?ref=ijk2b2xlz25hdkvensi=.gpsrobot.a.clickbetter.com/](../assets/)
+![http://https://clickbetter.com/track.php?ref=ijk2b2xlz25hdkvensi=.gpsrobot.a.clickbetter.com/](../assets/Button.png)
