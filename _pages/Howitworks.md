@@ -5,6 +5,7 @@ include_in_header: true
 ---
 # Tokenomics
 
+
 |**Token Name:** Replica Forex|
 |-----------------------------|
 |**Token Symbol:** RFX|
@@ -13,7 +14,9 @@ include_in_header: true
 |----------------------------|
 |**Token Protocol:** BEP20|
 
-# Token Allocation
+
+## Token Allocation
+
 
 |**Development Team:** 1,000,000|
 |-------------------------------|
