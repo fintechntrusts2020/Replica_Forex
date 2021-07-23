@@ -5,18 +5,25 @@ include_in_header: true
 ---
 # Tokenomics
 
-**Token Name:** Replica Forex
-**Token Symbol:** RFX
-**Token Supply:** 10,000,000
-**Token Protocol:** BEP20
+|**Token Name:** Replica Forex|
+|-----------------------------|
+|**Token Symbol:** RFX|
+|---------------------|
+|**Token Supply:** 10,000,000|
+|----------------------------|
+|**Token Protocol:** BEP20|
 
 ## Token Allocation
 
-**Development Team:** 1,000,000
-**Market Management Resevoir:** 1,750,000
-**Community:** 5,250,000
-**Fees:** 1,000,000
-**Marketing:** 1,000,000
+|**Development Team:** 1,000,000|
+|-------------------------------|
+|**Market Management Resevoir:** 1,750,000|
+|-----------------------------------------|
+|**Community:** 5,250,000|
+|------------------------|
+|**Fees:** 1,000,000|
+|-------------------|
+|**Marketing:** 1,000,000|
 
 *The initial allocation balances are subject to change overtime.*
 
