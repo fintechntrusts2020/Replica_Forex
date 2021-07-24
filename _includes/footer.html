@@ -40,6 +40,24 @@
 			</a>
 		{% endif %}
 
+		{% if site.telegram_username %}
+			<a href="https://t.me/replicaforex">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-telegram fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+
+		{% if site.discord_username %}
+			<a href="https://discord.com/channels/868409686943203328/868409688121835542">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-discord fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+
 		{% if site.email_address %}
 			<a href="mailto:{{ site.email_address }}">
 				<span class="fa-stack fa-1x">
