@@ -20,7 +20,7 @@ include_in_header: true
 
 |**Development Team:** 1,000,000|
 |-------------------------------|
-|**Market Management Resevoir:** 1,750,000|
+|**Market Management Reservoir:** 1,750,000|
 |-----------------------------------------|
 |**Community:** 5,250,000|
 |------------------------|
