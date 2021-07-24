@@ -62,7 +62,7 @@ include_in_header: true
 
 **For more information regarding the automated trading software, please visit [GPS Forex Robot](https://gpsforexrobot.com/).**
 
-**The GPS Forex Robot is the best automated trading software on the market, and has been tested for about a decade. Due to our teams experience with this software, by utilizing the default settings, the win to loss ratio is well above 80%. As trades open and close, the development team will maintain transparency regarding weekly trading results via the "[News]()" portion of the Replica Forex website.** 
+**The GPS Forex Robot is the best automated trading software on the market, and has been tested for about a decade. Due to our teams experience with this software, by utilizing the default settings, the win to loss ratio is well above 80%. As trades open and close, the development team will maintain transparency regarding weekly trading results via the "[News](https://replica-forex.net/RFXnews/)" portion of the Replica Forex website.** 
 
 ![](../assets/MT4.png)
 
