@@ -39,16 +39,16 @@ include_in_header: true
 
 *Below is a visual example of how the Replica Forex development team intends to execute the following market strategy.*
 
-**1. The Pancake Swap liquidation strategy will entail the following:**
-    **a. 1,750,000 RFX for market maintanence and replishing accounts regarding development, fees, and marketing.** 
-    **b. 1,000,000 RFX for the development team.**
-    **c. 1,000,000 RFX for Fees, crypto and fiat alike.(Binance.us, Forex.com, Legal, Structure, etc.)**
-    **d. 1,000,000 RFX for marketing incentivization.**
-    **e. 5,250,000 RFX for liquidity events prior each pool launch.**
-**2. BNB will be moved to Binance.us for conversion. BNB in exchange for USD**
-**3. USD withdrawn from Binance.us and deposited Forex.com community pool for GPS Forex Robot algorithm.**
-**4. The principal amount + 50% of profits will remain in the pool. 50% of the profits will be removed and sent to Binance.us for BNB conversion.**
-**5. When BNB is acquired 50% of the BNB will be converted into RFX, and the other 50% will be used for liquidity.**
+1.**The Pancake Swap liquidation strategy will entail the following:**
+    **1,750,000 RFX for market maintanence and replishing accounts regarding development, fees, and marketing.** 
+    **1,000,000 RFX for the development team.**
+    **1,000,000 RFX for Fees, crypto and fiat alike.(Binance.us, Forex.com, Legal, Structure, etc.)**
+    **1,000,000 RFX for marketing incentivization.**
+    **5,250,000 RFX for liquidity events prior each pool launch.**
+2.**BNB will be moved to Binance.us for conversion. BNB in exchange for USD**
+3.**USD withdrawn from Binance.us and deposited Forex.com community pool for GPS Forex Robot algorithm.**
+4.**The principal amount + 50% of profits will remain in the pool. 50% of the profits will be removed and sent to Binance.us for BNB conversion.**
+5.**When BNB is acquired 50% of the BNB will be converted into RFX, and the other 50% will be used for liquidity.**
 
 ![](../assets/RFX_graphic(2).png)
 
