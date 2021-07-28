@@ -13,6 +13,8 @@ include_in_header: true
 |**Token Supply:** 10,000,000|
 |----------------------------|
 |**Token Protocol:** BEP20|
+|-------------------------|
+|**Smart Contract:** 0xc1c8056dd9a0cd81146038c44439c18b0aaa5e36|
 
 
 ## Token Allocation
