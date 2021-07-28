@@ -5,7 +5,8 @@ include_in_header: true
 ---
 # Tokenomics
 
-
+|**OVERVIEW**                 |
+|-----------------------------|
 |**Token Name:** Replica Forex|
 |-----------------------------|
 |**Token Symbol:** RFX|
@@ -19,7 +20,8 @@ include_in_header: true
 
 ## Token Allocation
 
-
+|**BUDGET**                     |
+|-------------------------------|
 |**Development Team:** 1,000,000|
 |-------------------------------|
 |**Market Management Reservoir:** 1,750,000|
