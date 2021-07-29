@@ -11,14 +11,21 @@ include_in_header: true
 |3rd Quarter                                     |
 |------------------------------------------------|
 |USDT/RFX Liquidity Event #1                     |
+|------------------------------------------------|
 |Developer Outreach                              |
+|------------------------------------------------|
 |Coingecko Listing                               |
+|------------------------------------------------|
+|Telegram Referral Campaign                      |
 
 |------------------------------------------------|
 |4th Quarter                                     |
 |------------------------------------------------|            
 |BUSD Liquidity Event #2                         |
-|Coinmarketcap Listing                           |     
+|------------------------------------------------|
+|Coinmarketcap Listing                           |
+|------------------------------------------------|
+|Discord Referral Campaign                       |
 
 # 2022
 
@@ -28,12 +35,16 @@ include_in_header: true
 |Simple Ledger Protocol Bridge Implementation    |
 |------------------------------------------------|
 |WBNB Liquidity Event #3                         |
+|------------------------------------------------|
+|Twitter Referral Campaign                       |
 
 |2nd Quarter                                     |
 |------------------------------------------------|
 |Simple Ledger Protocol DEX Listing              |
 |------------------------------------------------|
 |Utility Conceptualization                       |
+|------------------------------------------------|
+|Facebook Referral Campaign                      |
 
 |3rd Quarter                                     |
 |------------------------------------------------|
@@ -41,11 +52,13 @@ include_in_header: true
 |------------------------------------------------|
 |Dashboard Development(Web3)                     |
 |------------------------------------------------|
-|Dashboard Referral Rewards Development          |
+|Dashboard Referral Rewards Development          ||
+
 
 |4th Quarter                                     |
 |------------------------------------------------|
 |Referral Rewards Marketing Initialization       |
+|------------------------------------------------|
 |Partnership Development Program                 |
 
 # 2023
