@@ -70,23 +70,25 @@ include_in_header: true
 
 ## LIquidity Events
 
-|Event #1: USDT/RFX                                                     |
-|-----------------------------------------------------------------------|
-|Contribution Reward Ratio|Total RFX Rewards| PancakeSwap Liquidity Pool|
-|-----------------------------------------------------------------------|
-|(USDT) 9/10:1 (RFX)      | 875,000 RFX     | 250,000 RFX               |
+*RFX Rewards Multiplier Distributed on First Come First Served*
 
-|Event #2: BUSD/RFX                                                     |
-|-----------------------------------------------------------------------|
-|Contribution Reward Ratio|Total RFX Rewards| PancakeSwap Liquidity Pool|
-|-----------------------------------------------------------------------|
-|(BUSD) 18/10:1 (RFX)     | 1,750,000 RFX   | 250,000 RFX               |
+|Event #1: USDT/RFX                                                                                        |
+|----------------------------------------------------------------------------------------------------------|
+|Contribution Reward Ratio| RFX Rewards Multiplier | Total RFX Rewards         | PancakeSwap Liquidity Pool|
+|----------------------------------------------------------------------------------------------------------|
+|(USDT) 9/10:1 (RFX)      | 2x                     | 875,000 RFX               | 250,000 RFX               |
 
-|Event #3: WBNB/RFX                                                     |
-|-----------------------------------------------------------------------|
-|Contribution Reward Ratio|Total RFX Rewards| PancakeSwap Liquidity Pool|
-|-----------------------------------------------------------------------|
-|(WBNB) 18/5:1 (RFX)      | 2,625,000 RFX   | 250,000 RFX               |
+|Event #2: BUSD/RFX                                                                                        |
+|----------------------------------------------------------------------------------------------------------|
+|Contribution Reward Ratio| RFX Rewards Multiplier |Total RFX Rewards          | PancakeSwap Liquidity Pool|
+|----------------------------------------------------------------------------------------------------------|
+|(BUSD) 18/10:1 (RFX)     | 4x                     | 1,750,000 RFX             | 250,000 RFX               |
+
+|Event #3: WBNB/RFX                                                                                        |
+|----------------------------------------------------------------------------------------------------------|
+|Contribution Reward Ratio| RFX Rewards Multiplier |Total RFX Rewards          | PancakeSwap Liquidity Pool|
+|----------------------------------------------------------------------------------------------------------|
+|(WBNB) 18/5:1 (RFX)      | 8x                     | 2,625,000 RFX             | 250,000 RFX               |
 
 
 ## Community Goals
