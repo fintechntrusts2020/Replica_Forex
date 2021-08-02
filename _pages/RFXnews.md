@@ -9,7 +9,9 @@ include_in_header: False
 # Replica Economics to list 3 RFX Trade pairs on PancakeSwap after each liquidity event has concluded!
 
 **Liquidity Event #1:** *USDT(BEP20)/RFX*
+
 **Liquidity Event #2:** *BUSD/RFX*
+
 **Liquidity Event #3:** *WBNB/RFX*
 
 **Stay Tuned for the lastest news regarding the RFX Token here and social media!**
