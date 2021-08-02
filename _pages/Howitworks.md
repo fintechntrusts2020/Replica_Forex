@@ -24,7 +24,7 @@ include_in_header: true
 |-------------------------------|
 |**Development Team:** 1,000,000|
 |-------------------------------|
-|**Market Management Reservoir:** 1,000.000||
+|**Market Management Reservoir:** 1,000.000|
 |-----------------------------------------|
 |**Community:** 6,000,000|
 |------------------------|
@@ -48,7 +48,7 @@ include_in_header: true
     **1,000,000 RFX for Fees, crypto and fiat alike.(Binance.us, Forex.com, Legal, Structure, etc.)**
 
     **1,000,000 RFX for marketing incentivization.**
-    
+
     **6,000,000 RFX for liquidity events prior each pool launch.**
 
 2. **BNB will be moved to Binance.us for conversion. BNB in exchange for USD**
