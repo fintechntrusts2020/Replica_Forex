@@ -16,7 +16,10 @@ include_in_header: true
 |------------------------------------------------|
 |Coingecko Listing                               |
 |------------------------------------------------|
-|Telegram Referral Campaign                      |
+|Telegram Referral Campaign #1                   |
+|------------------------------------------------|
+|Discord Referral Campaign #1                    |
+
 
 |------------------------------------------------|
 |4th Quarter                                     |
@@ -25,7 +28,9 @@ include_in_header: true
 |------------------------------------------------|
 |Coinmarketcap Listing                           |
 |------------------------------------------------|
-|Discord Referral Campaign                       |
+|Twitter Referral Campaign #1                    |
+|------------------------------------------------|
+|Facebook Referral Campaign #1                   |
 
 # 2022
 
@@ -36,7 +41,9 @@ include_in_header: true
 |------------------------------------------------|
 |WBNB Liquidity Event #3                         |
 |------------------------------------------------|
-|Twitter Referral Campaign                       |
+|Telegram Referral Campaign #2                   |
+|------------------------------------------------|
+|Discord Referral Campaign #2                    |
 
 |2nd Quarter                                     |
 |------------------------------------------------|
@@ -44,7 +51,9 @@ include_in_header: true
 |------------------------------------------------|
 |Utility Conceptualization                       |
 |------------------------------------------------|
-|Facebook Referral Campaign                      |
+|Twitter Referral Campaign #2                    |
+|------------------------------------------------|
+|Facebook Referral Campaign #2                   |
 
 |3rd Quarter                                     |
 |------------------------------------------------|

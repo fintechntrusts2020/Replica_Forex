@@ -15,7 +15,7 @@ include_in_header: true
 |----------------------------|
 |**Token Protocol:** BEP20|
 |-------------------------|
-|**Smart Contract:** 0xc1c8056dd9a0cd81146038c44439c18b0aaa5e36|
+|**Smart Contract:** 0x6c64cd343262929a16a218a4be657d092c0c899b|
 
 
 ## Token Allocation
