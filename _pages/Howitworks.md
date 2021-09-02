@@ -78,4 +78,4 @@ include_in_header: true
 ## Additional Information
 
 **GPS Forex Robot Download Link**
-<a href='http://https://clickbetter.net/track.php?ref=ijk2b2xlz25hdkvensi=.gpsrobot.a.clickbetter.net/' target='_blank'><img src='https://gpsforexrobot.com/images/nuts/promo3.gif' style='width: 768px; height: 90px; border: 0;' alt='GPS Forex Robot'/></a>
+<a href='http://XXXXX.gpsrobot.a.clickbetter.net/' target='_blank'><img src='https://gpsforexrobot.com/images/nuts/promo3.gif' style='width: 768px; height: 90px; border: 0;' alt='GPS Forex Robot'/></a>
