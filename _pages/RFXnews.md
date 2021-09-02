@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RFX News
-include_in_header: False
+include_in_header: false
 ---
 
 *07/22/2021*

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Liquidity Events
-include_in_header: false
+include_in_header: true
 ---
 
 *Send BNB ONLY liquidity event smart contract address, the developers will not be liable for user errors.*
