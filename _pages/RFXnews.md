@@ -8,7 +8,7 @@ include_in_header: false
 
 # Replica Economics to list 3 RFX Trade pairs on PancakeSwap after each liquidity event has concluded!
 
-**Liquidity Event #1:** *USDT(BEP20)/RFX*
+**Liquidity Event #1:** *USDT(BEP20)/RFX* 
 
 **Liquidity Event #2:** *BUSD/RFX*
 
