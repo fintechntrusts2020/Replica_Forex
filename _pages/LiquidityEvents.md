@@ -6,7 +6,7 @@ include_in_header: true
 
 *Send BNB ONLY liquidity event smart contract address, the developers will not be liable for user errors.*
 
-# Liquidity Event #1 (Starts September 6th, 2021)
+# Liquidity Event #1 (Starts September 15th, 2021)
 
 |USDT/RFX Liquidity Event                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------------------------|

@@ -18,7 +18,7 @@ include_in_header: true
 |------------------------------------------------|
 |Telegram Referral Campaign #1                   |
 |------------------------------------------------|
-|Discord Referral Campaign #1                    |
+|Twitter Referral Campaign #1                    |
 
 
 |------------------------------------------------|
@@ -28,7 +28,7 @@ include_in_header: true
 |------------------------------------------------|
 |Coinmarketcap Listing                           |
 |------------------------------------------------|
-|Twitter Referral Campaign #1                    |
+|Discord Referral Campaign #1                    |
 |------------------------------------------------|
 |Facebook Referral Campaign #1                   |
 
@@ -43,7 +43,7 @@ include_in_header: true
 |------------------------------------------------|
 |Telegram Referral Campaign #2                   |
 |------------------------------------------------|
-|Discord Referral Campaign #2                    |
+|Twitter Referral Campaign #2                    |
 
 |2nd Quarter                                     |
 |------------------------------------------------|
@@ -51,7 +51,7 @@ include_in_header: true
 |------------------------------------------------|
 |Utility Conceptualization                       |
 |------------------------------------------------|
-|Twitter Referral Campaign #2                    |
+|Discord Referral Campaign #2                    |
 |------------------------------------------------|
 |Facebook Referral Campaign #2                   |
 
